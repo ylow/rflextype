@@ -1,2 +1,2 @@
-# rflextype
-A general flexible type that can hold most typical scalar types and recursive types for data analysis operations. Inspired by SFrame and will be a building block for rebuilding a lot of SFrame Rust.
+# RSFrame
+A reimplementation of SFrame in Rust built on top of Apache Arrow.
